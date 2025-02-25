@@ -11,5 +11,6 @@ This allows for the program to handle as many requests the user makes.
 
 Things you will need to do to adapt this to work with your project, write to the text file similarly to how request.py does with the word "run" when you want to receive a random number. Note that the number in the text file is written as a string as well.
 
-"C:\Users\thanu\OneDrive\Pictures\Screenshots\Screenshot 2025-02-24 193930.png"
+![Screenshot 2025-02-24 193930](https://github.com/user-attachments/assets/5073b72c-8b90-49a4-a5cd-52a4df84c4bb)
+
 
